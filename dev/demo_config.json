@@ -1,0 +1,10 @@
+{
+    "viewName": "demo_card",
+    "viewVer": "1",
+    "mainFile": "demo_card.xml",
+    "fileList":[
+        {
+            "fileName":"item_demo_card.xml"
+        }
+    ]
+}

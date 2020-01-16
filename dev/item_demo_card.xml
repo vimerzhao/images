@@ -1,0 +1,6 @@
+<relativelayout width="match_parent" height="match_parent" backgroundcolor="ff00ff">
+    <textview text="data@name$CardName"
+        width="wrap_content" height="wrap_content" textsize="16" textcolor="000000"
+        singleline="true" ellipsize="end"/>
+
+</relativelayout>
